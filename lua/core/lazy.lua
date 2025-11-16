@@ -17,7 +17,9 @@ vim.opt.rtp:prepend(lazypath)
 local plugins = {
 	require("plugins.toggleterm"),
 	require("plugins.neo-tree"),
-	require("themes.tokyonight")
+	require("plugins.42-header"),
+	--require("themes.tokyonight")
+	require("themes.catppuccin")
 }
 
 require("lazy").setup(plugins);
