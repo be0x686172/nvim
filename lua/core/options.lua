@@ -7,4 +7,6 @@ vim.opt.cursorline = true;
 vim.opt.list = true;
 vim.opt.listchars = {tab = "→ ", trail = "."};
 
+vim.o.timeoutlen = 150;
 vim.opt.clipboard = "unnamed";
+vim.o.readonly = false;

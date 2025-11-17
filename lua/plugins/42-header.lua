@@ -5,9 +5,6 @@ return {
   opts = {
     default_map = true, -- Default mapping <F1> in normal mode.
     auto_update = true, -- Update header when saving.
-    user = "username", -- Your user.
-    mail = "your@email.com", -- Your mail.
-    -- add other options.
   },
   config = function()
     require("42header").setup({
