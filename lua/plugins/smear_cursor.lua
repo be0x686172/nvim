@@ -3,9 +3,9 @@ return {
 	opts = {},
 	config = function()
 		require("smear_cursor").setup({
-			stiffness = 0.8,
+			stiffness = 0.98,
 			trailing_stiffness = 0.5,
-			distance_stop_animating = 0.6
+			distance_stop_animating = 0.01
 		})
 	end
 }

@@ -21,8 +21,12 @@ local plugins = {
 	require("plugins.telescope"),
 	require("plugins.treesitter"),
 	require("plugins.smear_cursor"),
-	--require("themes.tokyonight")
+	 require("plugins.lsp"),
+	require("plugins.cmp"),
+	require("plugins.autopairs"),
+	require("plugins.autotag"),
 	require("themes.catppuccin")
+	--require("themes.tokyonight")
 }
 
 require("lazy").setup(plugins);

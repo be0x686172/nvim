@@ -7,7 +7,9 @@ return {
       "MunifTanjim/nui.nvim",
       "nvim-tree/nvim-web-devicons", -- optional, but recommended
     },
-    lazy = false, -- neo-tree will lazily load itself
+    keys = {           -- lazy-load également quand on appuie sur <leader>e
+      { "<leader>e", "<cmd>Neotree toggle<CR>", desc = "Toggle NeoTree" }
+    },
     config = function()
 	    require("neo-tree").setup({
 		close_if_last_window = true,
