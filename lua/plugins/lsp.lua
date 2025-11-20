@@ -8,7 +8,7 @@ return {
       vim.lsp.enable('pyright')   -- Python
       vim.lsp.enable('html')
       vim.lsp.enable('cssls')
-      vim.lsp.enable('tsserver')  -- JS/TS/React
+      vim.lsp.enable('ts_ls')  -- JS/TS/React
     end
   },
 }
