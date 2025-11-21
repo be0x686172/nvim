@@ -25,8 +25,13 @@ local plugins = {
 	require("plugins.cmp"),
 	require("plugins.autopairs"),
 	require("plugins.autotag"),
-	require("themes.catppuccin")
-	--require("themes.tokyonight")
+	require("plugins.lualine"),
+	require("themes.catppuccin"),
+	--require("themes.tokyonight"),
+	--require("themes.tokyodark"),
+	--require("themes.rose-pine"),
+	--require("themes.onedark"),
+	--require("themes.nordic"),
 }
 
 require("lazy").setup(plugins);

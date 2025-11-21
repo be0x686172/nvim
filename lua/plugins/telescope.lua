@@ -9,7 +9,7 @@ return {
         require("telescope").setup{
             defaults = {
                 -- options par défaut ici
-                prompt_prefix = "🔍 ",
+                prompt_prefix = " 🔍 ",
                 selection_caret = "➤ ",
             },
         }
