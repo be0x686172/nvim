@@ -4,12 +4,13 @@
 
 <br /><br />
 
-<p align="center"><b>This repository contains my custom configuration of Neovim.</b></p>
-<p align="center"><em>This configuration uses `space` key as `leader`.</em></p>
+![Demo](assets/nvim.gif)
 
 <br /><br />
 
-![Demo](assets/nvim.gif)
+<p align="center"><b>This repository contains my custom configuration of Neovim.</b></p>
+<p align="center"><em>This configuration uses `space` key as `leader`.</em></p>
+
 
 <br /><br />
 
