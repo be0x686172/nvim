@@ -80,11 +80,11 @@ nvim
 | Theme      | Status                                               |
 | ---------- | ---------------------------------------------------- |
 | catppuccin | Active (set in `lua/core/lazy.lua`)                  |
-| nordic     | Commented (can be set via `:colorscheme nordic`)     |
-| onedark    | Commented (can be set via `:colorscheme onedark`)    |
-| rose-pine  | Commented (can be set via `:colorscheme rose-pine`)  |
-| tokyodark  | Commented (can be set via `:colorscheme tokyodark`)  |
-| tokyonight | Commented (can be set via `:colorscheme tokyonight`) |
+| nordic     | Commented in lazy.lya file (can be set via `:colorscheme nordic`)     |
+| onedark    | Commented in lazy.lya file (can be set via `:colorscheme onedark`)    |
+| rose-pine  | Commented in lazy.lya file (can be set via `:colorscheme rose-pine`)  |
+| tokyodark  | Commented in lazy.lya file (can be set via `:colorscheme tokyodark`)  |
+| tokyonight | Commented in lazy.lya file (can be set via `:colorscheme tokyonight`) |
 
 <br />
 
