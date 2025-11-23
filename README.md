@@ -70,6 +70,8 @@ nvim
 | Space + e       | Open the file explorer |
 | Space + f       | Search for a file      |
 | Space + t       | Open a terminal        |
+| Ctrl + s        | Save the file          |
+| Ctrl + q        | Quit nvim without saving |
 
 <br />
 
@@ -95,7 +97,6 @@ nvim
 ```bash
 ~/.config/nvim
 ├── init.lua
-├── lazy-lock.json
 ├── README.md
 ├── assets/
 │   └── nvim.gif
