@@ -21,3 +21,28 @@
 
 <br />
 
+- Neovim ≥ v0.9
+- Git
+- A Nerd Font (e.g., Fira Code)
+
+<br />
+
+## 💻 Installation
+
+<br />
+
+```bash
+# Clone the repository into your current directory
+git clone https://github.com/be0x686172/nvim.git
+
+# Move the cloned 'nvim' folder into your Neovim configuration directory
+mv nvim ~/.config/
+
+# Open Neovim (this will load the configuration)
+nvim
+
+# Inside Neovim, synchronize and install all plugins
+:Lazy sync
+:Lazy install
+:Lazy update
+```
