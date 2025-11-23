@@ -9,9 +9,12 @@
 
 <br /><br />
 
-<p align="center"><img src="assets/nvim.gif" width="700"></p>
+## 🎥 Preview
+![Demo](assets/nvim.gif)
 
-<br /><br />
+Sorry for the quality
+
+<br />
 
 ## ✅ Prerequisites
 
