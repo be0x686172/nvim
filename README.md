@@ -19,8 +19,6 @@
 
 ## ✅ Prerequisites
 
-<br />
-
 - Neovim ≥ v0.9
 - Git
 - A Nerd Font (e.g., Fira Code)
